@@ -1,0 +1,10 @@
+D:\Projects\Dewarp\DewarpGUI\DewarpGUI\bin\Debug\DewarpGUI.exe.config
+D:\Projects\Dewarp\DewarpGUI\DewarpGUI\obj\Debug\DewarpGUI.csprojResolveAssemblyReference.cache
+D:\Projects\Dewarp\DewarpGUI\DewarpGUI\obj\Debug\DewarpGUI.Properties.Resources.resources
+D:\Projects\Dewarp\DewarpGUI\DewarpGUI\obj\Debug\DewarpGUI.csproj.GenerateResource.Cache
+D:\Projects\Dewarp\DewarpGUI\DewarpGUI\obj\Debug\DewarpGUI.exe
+D:\Projects\Dewarp\DewarpGUI\DewarpGUI\obj\Debug\DewarpGUI.pdb
+D:\Projects\Dewarp\DewarpGUI\bin\DewarpGUI.exe.config
+D:\Projects\Dewarp\DewarpGUI\bin\DewarpGUI.exe
+D:\Projects\Dewarp\DewarpGUI\bin\DewarpGUI.pdb
+D:\Projects\Dewarp\DewarpGUI\DewarpGUI\obj\Debug\DewarpGUI.Form1.resources

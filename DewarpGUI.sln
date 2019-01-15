@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DewarpGUI", "DewarpGUI\DewarpGUI.csproj", "{37BB7D2B-5E24-4979-ABB4-79865B9D836B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Processor", "Processor\Processor.vcxproj", "{6128C1EE-B678-4C8D-9596-4F839AF72405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37BB7D2B-5E24-4979-ABB4-79865B9D836B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37BB7D2B-5E24-4979-ABB4-79865B9D836B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37BB7D2B-5E24-4979-ABB4-79865B9D836B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{37BB7D2B-5E24-4979-ABB4-79865B9D836B}.Debug|x64.Build.0 = Debug|Any CPU
+		{37BB7D2B-5E24-4979-ABB4-79865B9D836B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{37BB7D2B-5E24-4979-ABB4-79865B9D836B}.Debug|x86.Build.0 = Debug|Any CPU
+		{37BB7D2B-5E24-4979-ABB4-79865B9D836B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37BB7D2B-5E24-4979-ABB4-79865B9D836B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37BB7D2B-5E24-4979-ABB4-79865B9D836B}.Release|x64.ActiveCfg = Release|Any CPU
+		{37BB7D2B-5E24-4979-ABB4-79865B9D836B}.Release|x64.Build.0 = Release|Any CPU
+		{37BB7D2B-5E24-4979-ABB4-79865B9D836B}.Release|x86.ActiveCfg = Release|Any CPU
+		{37BB7D2B-5E24-4979-ABB4-79865B9D836B}.Release|x86.Build.0 = Release|Any CPU
+		{6128C1EE-B678-4C8D-9596-4F839AF72405}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{6128C1EE-B678-4C8D-9596-4F839AF72405}.Debug|x64.ActiveCfg = Debug|x64
+		{6128C1EE-B678-4C8D-9596-4F839AF72405}.Debug|x64.Build.0 = Debug|x64
+		{6128C1EE-B678-4C8D-9596-4F839AF72405}.Debug|x86.ActiveCfg = Debug|Win32
+		{6128C1EE-B678-4C8D-9596-4F839AF72405}.Debug|x86.Build.0 = Debug|Win32
+		{6128C1EE-B678-4C8D-9596-4F839AF72405}.Release|Any CPU.ActiveCfg = Release|Win32
+		{6128C1EE-B678-4C8D-9596-4F839AF72405}.Release|x64.ActiveCfg = Release|x64
+		{6128C1EE-B678-4C8D-9596-4F839AF72405}.Release|x64.Build.0 = Release|x64
+		{6128C1EE-B678-4C8D-9596-4F839AF72405}.Release|x86.ActiveCfg = Release|Win32
+		{6128C1EE-B678-4C8D-9596-4F839AF72405}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
